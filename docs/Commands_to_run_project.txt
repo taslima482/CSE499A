@@ -1,0 +1,23 @@
+# composer update
+# php artisan migrate
+# php artisan db:seed --class=PermissionTableSeeder
+# php artisan db:seed --class=CreateAdminUserSeeder
+# php artisan storage:link
+
+A Super Admin Will be created . 
+ID : superadmin@gmail.com
+phone : 01700000000
+pass : 1234
+
+==================================
+TENANT Creation Steps =>
+# Login as Super Admin
+
+# Manage Roles => Create New Role: STUDENT (with permission: 'student-can', 'apply-scholarship')
+# Manage Roles => Create New Role: TENANT (with permission: 'tenant-can')
+
+# Manage Tenants => Create New Tenant: Tenant Name
+
+# (if tenant admin does not exist as an user)
+    Manage Users => Create New User: Tenant Admin Name (with Role: 'TENANT')
+# Manage Users => Edit The Tenant Admin: (with Role: 'TENANT', ex. TENANT) and (with Tenant Name: 'Tenant Name', ex.Hridoye Bangladesh)

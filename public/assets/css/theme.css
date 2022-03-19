@@ -1,0 +1,122 @@
+.navbar-area .main-nav .navbar .navbar-nav .nav-item .nav-link.active {
+    color: #fa8231;
+}
+.main-nav nav .navbar-nav .nav-item a:hover {
+    color: #fa8231;
+}
+.main-nav nav .navbar-nav .nav-item:hover a {
+    color: #fa8231
+}
+.navbar-area .main-nav .navbar .other-option .signup-btn:hover {
+    color: #fa8231;
+    background: 0 0;
+}
+.theme-btn .default-btn {
+    background: #fa8231;
+    color: #fff;
+}
+.find-form .find-btn {
+    background: #fa8231;
+}
+.choose-card {
+    border: 1px dashed #fa8231;
+}
+.choose-card:hover {
+    background: #fa8231;
+}
+.choose-card i {
+    font-size: 40px;
+    color: #fa8231;
+    background: #fcd4b9;
+    border: 1px dashed #fa8231;
+}
+.job-card-two .job-info h3 a:hover {
+    color: #fa8231;
+}
+.job-card-two .company-logo {
+    background: #fcd4b9;
+    border: 1px dashed #fa8231;
+}
+.job-card-two .job-info span {
+    background: #fcd4b9;
+    color: #fa8231;
+    border: 1px dashed #fa8231;
+}
+.looking-job {
+    background: #fa8231;
+}
+.looking-job .media i {
+    background: #fcd4b9;
+    color: #fa8231;
+}
+.recruiting-card .media .media-body a:hover{
+    color: #fa8231;
+}
+.recruiting-card .media .media-body a:hover i {
+    color: #fa8231;
+}
+.job-details-text .job-card .job-info span {
+    color: #fa8231;
+    font-size: 16px;
+    font-weight: 500;
+}
+.page-title .lines .line::after {
+    background: #fa8231;
+}
+.signin-form .signin-btn button:hover {
+    background: #fa8231;
+}
+.subscribe-section {
+    background: #fa8231;
+}
+.subscribe-section .newsletter-form .sub-btn:hover{
+    background: #fa8231;
+}
+.navbar-area .main-nav .navbar .other-option .signin-btn{
+    background: #fa8231;
+}
+.signup-form .signup-btn button:hover{
+    background: #fa8231;
+}
+.signup-form .create-btn a:hover {
+    color: #fa8231;
+}
+.copyright-text p a:hover {
+    color: #fa8231;
+}
+.footer-area .footer-widget .footer-social a i:hover{
+    background: #fa8231;
+}
+.footer-area .footer-widget ul li a:hover {
+    color: #fa8231;
+}
+.footer-area .footer-widget ul li a i{
+    color: #fa8231;
+}
+.signin-form .create-btn a:hover {
+    color: #fa8231;
+}
+.footer-area .footer-widget.footer-info ul li span i{
+    color: #fa8231;
+}
+.account-information ul li a.active {
+    background: #fa8231;
+    color: #fff;
+}
+.account-information ul li a:hover {
+    background: #fa8231;
+    color: #fff;
+}
+.profile-btn {
+    background: #fa8231;
+}
+.page-title ul li a:hover {
+    color: #fa8231;
+}
+.candidate-heading{
+    color: #fa8231;
+
+}
+.job-card-two .job-info span {
+    color: #666464;
+}
